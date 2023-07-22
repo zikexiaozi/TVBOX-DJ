@@ -39,5 +39,5 @@ https://raw.githubusercontents.com/2hacc/TVBox/main/drpy/xiaoya.json
 https://ghproxy.com/https://raw.githubusercontent.com/zikexiaozi/TVBox-DJ/TVBox/tvbox.json
 
 小雅js：
-https://ghproxy.com/https://raw.githubusercontent.com/2hacc/zikexiaozi/TVBox-DJ/TVBox/xiaoya.json
+https://ghproxy.com/https://raw.githubusercontent.com/zikexiaozi/TVBox-DJ/TVBox/xiaoya.json
 ```
