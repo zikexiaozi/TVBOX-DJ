@@ -1,7 +1,8 @@
 {
   "spider":"./jar/tvbox.txt;md5;a4bf71ea71185b7815d3e94d591a7c51",
   "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-"lives":[{"name":"TVBox-DJ","type":0,"url":"./live/live.txt","playerType":1,"ua":"okhttp/3.12.13",epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[
+{"name":"TVBox-DJ","type":0,"url":"./live/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"YueChan•综合","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
